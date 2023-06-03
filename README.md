@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABatalov
-- 👀 I’m interested in project management 
-- 🌱 I’m currently learning how to manage different projects
+- 👀 I’m a project management in IT and exhibition business    
+- 🌱 To oversee the projects and to drive forward to achieve deliveries
 - 📫 How to reach me: 
 
 <div id="badges">
